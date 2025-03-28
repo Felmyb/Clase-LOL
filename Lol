@@ -1,4 +1,0 @@
-repo-web/
-  index-html
-  style.css
-  script.js
